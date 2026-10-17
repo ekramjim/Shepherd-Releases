@@ -28,4 +28,4 @@ Questions, bugs or ideas: [open an issue](https://github.com/ekramjim/Shepherd-R
 
 ---
 
-Made by [Ekram](https://www.ekram.tech).
+Made by [LynkSphere](https://lynksphere.com).

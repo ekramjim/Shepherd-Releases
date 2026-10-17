@@ -2,7 +2,7 @@
 
 _Last updated: 18 October 2026_
 
-Shepherd is a macOS app for working with AI coding agents, made by Ekramul Islam ("Ekram").
+Shepherd is a macOS app for working with AI coding agents, made by LynkSphere.
 
 ## The short version
 
