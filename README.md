@@ -7,7 +7,7 @@
 
 <h1 align="center">Shepherd</h1>
 
-A native macOS app for working with AI coding agents. Shepherd is a terminal built for agents, with projects, tabs and split panes, a file browser, search, saved commands, a Git page and a code editor. It watches every **Claude Code** and **Codex** session running in its tabs and shows what each one is doing: needs you, working, your turn, or stopped. It tells you when one finishes or needs you, and brings its tab forward with one click.
+A native macOS app for working with AI coding agents. Shepherd is a terminal built for agents, with projects, tabs and split panes, a file browser, search, saved commands, a Git page and a code editor. It watches every **Claude Code** and **Codex** session running in its tabs and shows what each one is doing: needs you, working, your turn, or stopped. It tells you when one finishes or needs you, lets you approve or deny Codex right from the menu bar, lists the agents a session spawns under it while they work, and brings its tab forward with one click.
 
 ![Shepherd's window with the menu bar panel open](images/mac-agent.webp)
 
@@ -38,11 +38,11 @@ Coming soon: follow your agents from your phone, with alerts and a Live Activity
 
 ## Updates
 
-Shepherd updates itself. Choose **Shepherd → Check for Updates…**, or let it check automatically once a day (**Settings → Agents → Updates**). Every update is signed, notarized by Apple, and verified before it installs.
+Shepherd updates itself. When a new version is out, a blue arrow appears beside Settings at the bottom of the sidebar: press it to update. You can also choose **Shepherd → Check for Updates…**, and turn automatic checks (every few hours) on or off in **Settings → Agents → Updates**. Every update is signed, notarized by Apple, and verified before it installs.
 
 ## Privacy
 
-Shepherd reads your agents' session files locally on your Mac. It has no analytics and no servers of its own. The only network requests are the daily update check and, if you use Shepherd on iPhone, your own private iCloud database. Read the full [privacy policy](PRIVACY.md).
+Shepherd reads your agents' sessions locally on your Mac (their session files, and Codex's own background server on your Mac). It has no analytics and no servers of its own. The only network requests are the update check and, if you use Shepherd on iPhone, your own private iCloud database. Read the full [privacy policy](PRIVACY.md).
 
 ## Support
 
